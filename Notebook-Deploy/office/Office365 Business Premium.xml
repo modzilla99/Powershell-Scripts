@@ -1,0 +1,7 @@
+<Configuration>
+  <Add OfficeClientEdition="64">
+    <Product ID="O365BusinessPremium">
+      <Language ID="de-de" />
+    </Product>
+  </Add>  
+</Configuration>
